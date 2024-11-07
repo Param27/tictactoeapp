@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TicTacToeApp</string>
+    <string name="btn_x">"X's Turn"</string>
+    <string name="btn_reset">TicTacToeApp</string>
+
+
+</resources>
